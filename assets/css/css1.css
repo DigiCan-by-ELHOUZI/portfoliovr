@@ -1,0 +1,24 @@
+table{
+    color: #ff0000;
+    margin: auto;
+    border-collapse: collapse;
+    
+}
+
+th {
+    background-color: #141c53;
+    color: #ffffff;
+    border: 4px solid #030303;
+    margin: auto;
+}
+
+td {
+    background-color: #efededc5;
+    color: #02050e;
+    border: 4px;
+    border: 4px solid #000000;
+}
+
+th strong {
+    margin: 180px;
+}
